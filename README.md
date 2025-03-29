@@ -5,6 +5,12 @@ Together API와 Meta LLaMA 3 모델을 활용한 범용 AI 챗봇입니다.
 
 ---
 
+## 👤 MADE BY
+
+- **김현민**
+
+---
+
 ## ✅ 주요 기능
 
 - Meta-LLaMA-3.1-70B-Instruct-Turbo 모델 사용
@@ -82,7 +88,3 @@ python main.py
 - API 플랫폼: [Together API](https://www.together.ai/)
 
 ---
-
-## 👤 MADE BY
-
-- **김현민** 
